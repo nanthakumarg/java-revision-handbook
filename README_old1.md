@@ -4,7 +4,38 @@
 
 This project aims to create a comprehensive Java revision handbook using markdown files. Each topic should be covered in-depth yet concisely, with practical applications and interview preparation materials.
 
-This handbook should help senior software engineers to prepare for technical interviews and also to refresh their knowledge about java.
+Purpose of this project is to create a comprehensive Java revision handbook. This handbook will include java topics with important concepts, code examples and scenario based questions.    
+
+Also each topic should cover differnt versions of java and it should answer to user questions like, how to use? when to use? in which scenario to use? real world examples, facts etc.
+
+Each topic also should have common interview questions and answers.
+
+## Content Structure Guidelines
+
+### For Each Java Topic, Include:
+
+1. **Core Concept Explanation**
+   - Clear, concise definition
+   - Key characteristics and properties
+   - Syntax and basic usage
+   - Important rules and constraints
+
+2. **Real-World Applications**
+   - Practical scenarios where this concept is used
+   - Industry examples and use cases
+   - Benefits and advantages in real projects
+   - Common patterns and best practices
+
+3. **When to Use This Concept**
+   - Specific situations that require this feature
+   - Problem-solving scenarios
+   - Performance considerations
+   - Alternative approaches and trade-offs
+
+4. **Interview Preparation**
+   - **Common Interview Questions**: 5-8 frequently asked questions with detailed answers
+   - **Coding Problems**: 3-5 programming questions with complete solutions
+   - **Conceptual Questions**: Theory-based questions that test understanding
 
 ## Writing Style Guidelines
 
