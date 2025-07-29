@@ -6,6 +6,8 @@ import starlightScrollToTop from 'starlight-scroll-to-top'
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://java.nanthakumar.com/',
+	base: '/java-revision-handbook',
 	integrations: [
 		starlight({
 			plugins: [starlightScrollToTop()],
@@ -13,7 +15,7 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/handbook.svg',
 			},
-			//social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/nanthakumarg/java-revision-handbook' }],
 			/*sidebar: [
 				{
 					label: 'Basics',
