@@ -7,7 +7,7 @@ import starlightScrollToTop from 'starlight-scroll-to-top'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://java.nanthakumar.com/',
-	base: '/java-revision-handbook',
+	//base: '/java-revision-handbook',
 	integrations: [
 		starlight({
 			plugins: [starlightScrollToTop()],
